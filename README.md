@@ -85,6 +85,12 @@ GET  /api/reputation/leaderboard Finder leaderboard
 POST /api/police/log          Police log found item
 GET  /api/txlog               Blockchain transaction log
 ```
+## 📊 Project Presentation
+
+You can view the project presentation here:
+
+ChainFind Presentation:
+presentation/ChainFind (1).pptx
 
 ---
 
