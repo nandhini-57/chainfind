@@ -37,20 +37,21 @@ chainfind/
 
 ---
 Install dependencies
-  Frontend
-          cd frontend
-          npm install
-          npm run dev
-  Backend
-          cd backend
-          npm install
-          node index.js
+ 
+  *Frontend
+          *cd frontend
+          *npm install
+          *npm run dev
+  *Backend
+          *cd backend
+          *npm install
+          *node index.js
 
 ---
 
 📌 Future Improvements
 
-User authentication
-Image upload for items
-Real-time notifications
-AI-based item matching
+*User authentication
+*Image upload for items
+*Real-time notifications
+*AI-based item matching
