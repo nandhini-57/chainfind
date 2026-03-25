@@ -54,6 +54,3 @@ User authentication
 Image upload for items
 Real-time notifications
 AI-based item matching
-```bash
-git clone https://github.com/nandhini-57/chainfind.git
-cd chainfind
